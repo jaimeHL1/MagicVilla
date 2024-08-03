@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jailu\\source\\repos\\MagicVilla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA1D844-2F47-4C16-92D1-D622C2726D67}|MagicVilla_API\\MagicVilla_API.csproj|c:\\users\\jailu\\source\\repos\\magicvilla\\magicvilla_api\\magicvilla_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1BA1D844-2F47-4C16-92D1-D622C2726D67}|MagicVilla_API\\MagicVilla_API.csproj|solutionrelative:magicvilla_api\\magicvilla_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA1D844-2F47-4C16-92D1-D622C2726D67}|MagicVilla_API\\MagicVilla_API.csproj|c:\\users\\jailu\\source\\repos\\magicvilla\\magicvilla_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA1D844-2F47-4C16-92D1-D622C2726D67}|MagicVilla_API\\MagicVilla_API.csproj|solutionrelative:magicvilla_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MagicVilla_API",
+              "DocumentMoniker": "C:\\Users\\jailu\\source\\repos\\MagicVilla\\MagicVilla_API\\MagicVilla_API.csproj",
+              "RelativeDocumentMoniker": "MagicVilla_API\\MagicVilla_API.csproj",
+              "ToolTip": "C:\\Users\\jailu\\source\\repos\\MagicVilla\\MagicVilla_API\\MagicVilla_API.csproj",
+              "RelativeToolTip": "MagicVilla_API\\MagicVilla_API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T10:12:10.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\jailu\\source\\repos\\MagicVilla\\MagicVilla_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MagicVilla_API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\jailu\\source\\repos\\MagicVilla\\MagicVilla_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MagicVilla_API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T10:10:51.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
