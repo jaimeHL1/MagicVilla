@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\jailu\\source\\repos\\MagicVilla\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1BA1D844-2F47-4C16-92D1-D622C2726D67}|MagicVilla_API\\MagicVilla_API.csproj|c:\\users\\jailu\\source\\repos\\magicvilla\\magicvilla_api\\magicvilla_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1BA1D844-2F47-4C16-92D1-D622C2726D67}|MagicVilla_API\\MagicVilla_API.csproj|solutionrelative:magicvilla_api\\magicvilla_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{1BA1D844-2F47-4C16-92D1-D622C2726D67}|MagicVilla_API\\MagicVilla_API.csproj|c:\\users\\jailu\\source\\repos\\magicvilla\\magicvilla_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA1D844-2F47-4C16-92D1-D622C2726D67}|MagicVilla_API\\MagicVilla_API.csproj|solutionrelative:magicvilla_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BA1D844-2F47-4C16-92D1-D622C2726D67}|MagicVilla_API\\MagicVilla_API.csproj|c:\\users\\jailu\\source\\repos\\magicvilla\\magicvilla_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BA1D844-2F47-4C16-92D1-D622C2726D67}|MagicVilla_API\\MagicVilla_API.csproj|solutionrelative:magicvilla_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BA1D844-2F47-4C16-92D1-D622C2726D67}|MagicVilla_API\\MagicVilla_API.csproj|c:\\users\\jailu\\source\\repos\\magicvilla\\magicvilla_api\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA1D844-2F47-4C16-92D1-D622C2726D67}|MagicVilla_API\\MagicVilla_API.csproj|solutionrelative:magicvilla_api\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA1D844-2F47-4C16-92D1-D622C2726D67}|MagicVilla_API\\MagicVilla_API.csproj|c:\\users\\jailu\\source\\repos\\magicvilla\\magicvilla_api\\modelos\\dto\\villadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA1D844-2F47-4C16-92D1-D622C2726D67}|MagicVilla_API\\MagicVilla_API.csproj|solutionrelative:magicvilla_api\\modelos\\dto\\villadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,32 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MagicVilla_API",
-              "DocumentMoniker": "C:\\Users\\jailu\\source\\repos\\MagicVilla\\MagicVilla_API\\MagicVilla_API.csproj",
-              "RelativeDocumentMoniker": "MagicVilla_API\\MagicVilla_API.csproj",
-              "ToolTip": "C:\\Users\\jailu\\source\\repos\\MagicVilla\\MagicVilla_API\\MagicVilla_API.csproj",
-              "RelativeToolTip": "MagicVilla_API\\MagicVilla_API.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-03T10:12:10.011Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jailu\\source\\repos\\MagicVilla\\MagicVilla_API\\Program.cs",
+              "RelativeDocumentMoniker": "MagicVilla_API\\Program.cs",
+              "ToolTip": "C:\\Users\\jailu\\source\\repos\\MagicVilla\\MagicVilla_API\\Program.cs",
+              "RelativeToolTip": "MagicVilla_API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:42:57.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\jailu\\source\\repos\\MagicVilla\\MagicVilla_API\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "MagicVilla_API\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\jailu\\source\\repos\\MagicVilla\\MagicVilla_API\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "MagicVilla_API\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "VillaDto.cs",
+              "DocumentMoniker": "C:\\Users\\jailu\\source\\repos\\MagicVilla\\MagicVilla_API\\Modelos\\Dto\\VillaDto.cs",
+              "RelativeDocumentMoniker": "MagicVilla_API\\Modelos\\Dto\\VillaDto.cs",
+              "ToolTip": "C:\\Users\\jailu\\source\\repos\\MagicVilla\\MagicVilla_API\\Modelos\\Dto\\VillaDto.cs",
+              "RelativeToolTip": "MagicVilla_API\\Modelos\\Dto\\VillaDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T10:10:51.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T15:11:50.569Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VillaController.cs",
+              "DocumentMoniker": "C:\\Users\\jailu\\source\\repos\\MagicVilla\\MagicVilla_API\\Controllers\\VillaController.cs",
+              "RelativeDocumentMoniker": "MagicVilla_API\\Controllers\\VillaController.cs",
+              "ToolTip": "C:\\Users\\jailu\\source\\repos\\MagicVilla\\MagicVilla_API\\Controllers\\VillaController.cs",
+              "RelativeToolTip": "MagicVilla_API\\Controllers\\VillaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:54:32.03Z",
+              "EditorCaption": ""
             }
           ]
         }
